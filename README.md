@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Val8927
+- 👀 I’m interested in Data science.
+- 🌱 I’m currently studying a Post Graduate Program in Data science
+- 💞️ I’m looking to improve my knoledge and any advice will be apreciated
